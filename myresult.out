@@ -1,0 +1,405 @@
+Q1, Hatay, Bursa, 2, R
+There is no way!
+Q1, Ardahan, Aydin, 3, H
+Ardahan, H, Tokat, A, Bolu, H, Bursa, H, Aydin
+Ardahan, H, Tokat, A, Bolu, H, Burdur, H, Aydin
+Ardahan, H, Tokat, H, Bolu, H, Bursa, A, Aydin
+Ardahan, H, Tokat, H, Bolu, H, Bursa, H, Aydin
+Ardahan, H, Tokat, H, Bolu, R, Bursa, H, Aydin
+Ardahan, H, Tokat, H, Bolu, A, Burdur, H, Aydin
+Ardahan, H, Tokat, H, Bolu, H, Burdur, A, Aydin
+Ardahan, H, Tokat, H, Bolu, H, Burdur, H, Aydin
+Ardahan, H, Tokat, H, Bolu, H, Burdur, R, Aydin
+Ardahan, H, Tokat, H, Bolu, R, Burdur, H, Aydin
+Ardahan, R, Tokat, H, Bolu, H, Bursa, H, Aydin
+Ardahan, R, Tokat, H, Bolu, H, Burdur, H, Aydin
+Ardahan, H, Hatay, A, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Hatay, A, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Hatay, H, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Hatay, H, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Hatay, H, Kayseri, A, Konya, H, Burdur, R, Aydin
+Ardahan, H, Hatay, H, Kayseri, A, Konya, R, Burdur, H, Aydin
+Ardahan, H, Hatay, H, Kayseri, R, Konya, H, Burdur, A, Aydin
+Ardahan, H, Hatay, H, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Hatay, H, Kayseri, R, Konya, H, Burdur, R, Aydin
+Ardahan, H, Hatay, H, Kayseri, R, Konya, R, Burdur, H, Aydin
+Ardahan, A, Erzincan, H, Bolu, H, Bursa, H, Aydin
+Ardahan, A, Erzincan, H, Bolu, H, Burdur, H, Aydin
+Ardahan, A, Erzincan, R, Malatya, H, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, A, Erzincan, R, Malatya, H, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, R, Erzincan, H, Bolu, H, Bursa, H, Aydin
+Ardahan, R, Erzincan, H, Bolu, H, Burdur, H, Aydin
+Ardahan, R, Erzincan, R, Malatya, H, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, R, Erzincan, R, Malatya, H, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, A, Tokat, A, Bolu, H, Bursa, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, A, Tokat, A, Bolu, H, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, A, Tokat, H, Bolu, H, Bursa, A, Aydin
+Ardahan, H, Agri, A, Diyarbakir, A, Tokat, H, Bolu, H, Bursa, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, A, Tokat, H, Bolu, R, Bursa, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, A, Tokat, H, Bolu, A, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, A, Tokat, H, Bolu, H, Burdur, A, Aydin
+Ardahan, H, Agri, A, Diyarbakir, A, Tokat, H, Bolu, H, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, A, Tokat, H, Bolu, H, Burdur, R, Aydin
+Ardahan, H, Agri, A, Diyarbakir, A, Tokat, H, Bolu, R, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, R, Burdur, A, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, R, Burdur, R, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, R, Burdur, A, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, R, Burdur, R, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, A, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, A, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, A, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, A, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, R, Malatya, R, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, A, Diyarbakir, R, Malatya, R, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, A, Bolu, H, Bursa, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, A, Bolu, H, Bursa, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, A, Bolu, R, Bursa, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, A, Bolu, A, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, A, Bolu, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, A, Bolu, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, A, Bolu, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, A, Bolu, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, H, Bolu, H, Bursa, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, H, Bolu, H, Bursa, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, H, Bolu, R, Bursa, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, H, Bolu, R, Bursa, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, H, Bolu, A, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, H, Bolu, A, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, H, Bolu, A, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, H, Bolu, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, H, Bolu, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, H, Bolu, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, H, Bolu, R, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, H, Bolu, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, H, Bolu, R, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, R, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, R, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, R, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, R, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, R, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, R, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, R, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, R, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, R, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, R, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, R, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, R, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, R, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, R, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, R, Kayseri, A, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, R, Kayseri, A, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, R, Kayseri, R, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, R, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, R, Kayseri, R, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Diyarbakir, R, Malatya, R, Kayseri, R, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, A, Tokat, A, Bolu, H, Bursa, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, A, Tokat, A, Bolu, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, A, Tokat, H, Bolu, H, Bursa, A, Aydin
+Ardahan, H, Agri, R, Diyarbakir, A, Tokat, H, Bolu, H, Bursa, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, A, Tokat, H, Bolu, R, Bursa, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, A, Tokat, H, Bolu, A, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, A, Tokat, H, Bolu, H, Burdur, A, Aydin
+Ardahan, H, Agri, R, Diyarbakir, A, Tokat, H, Bolu, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, A, Tokat, H, Bolu, H, Burdur, R, Aydin
+Ardahan, H, Agri, R, Diyarbakir, A, Tokat, H, Bolu, R, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, R, Burdur, A, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, R, Burdur, R, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, R, Burdur, A, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, R, Burdur, R, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, R, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, R, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, R, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, R, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, R, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, R, Malatya, R, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Diyarbakir, R, Malatya, R, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Hatay, A, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Hatay, A, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Hatay, H, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, R, Hatay, H, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Hatay, H, Kayseri, A, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, R, Hatay, H, Kayseri, A, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, R, Hatay, H, Kayseri, R, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, R, Hatay, H, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Hatay, H, Kayseri, R, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, R, Hatay, H, Kayseri, R, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Kayseri, A, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Kayseri, A, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Kayseri, R, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Kayseri, R, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Kayseri, R, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Bolu, H, Bursa, A, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Bolu, H, Bursa, H, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Bolu, R, Bursa, H, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Bolu, A, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Bolu, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Bolu, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Bolu, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Bolu, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, H, Bolu, H, Bursa, A, Aydin
+Ardahan, H, Agri, H, Erzincan, H, Bolu, H, Bursa, H, Aydin
+Ardahan, H, Agri, H, Erzincan, H, Bolu, R, Bursa, A, Aydin
+Ardahan, H, Agri, H, Erzincan, H, Bolu, R, Bursa, H, Aydin
+Ardahan, H, Agri, H, Erzincan, H, Bolu, A, Burdur, A, Aydin
+Ardahan, H, Agri, H, Erzincan, H, Bolu, A, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, H, Bolu, A, Burdur, R, Aydin
+Ardahan, H, Agri, H, Erzincan, H, Bolu, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Erzincan, H, Bolu, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, H, Bolu, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Erzincan, H, Bolu, R, Burdur, A, Aydin
+Ardahan, H, Agri, H, Erzincan, H, Bolu, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, H, Bolu, R, Burdur, R, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Bolu, H, Bursa, A, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Bolu, H, Bursa, H, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Bolu, R, Bursa, H, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Bolu, A, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Bolu, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Bolu, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Bolu, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Bolu, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, H, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, H, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, H, Kayseri, A, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, H, Kayseri, A, Konya, R, Burdur, A, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, H, Kayseri, A, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, H, Kayseri, A, Konya, R, Burdur, R, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, H, Kayseri, R, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, H, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, H, Kayseri, R, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, H, Kayseri, R, Konya, R, Burdur, A, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, H, Kayseri, R, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, H, Kayseri, R, Konya, R, Burdur, R, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, R, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, R, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, R, Kayseri, A, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, R, Kayseri, A, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, R, Kayseri, R, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, R, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, R, Kayseri, R, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, R, Kayseri, R, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, R, Erzincan, A, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Erzincan, A, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Erzincan, A, Bolu, H, Bursa, H, Aydin
+Ardahan, H, Agri, R, Erzincan, A, Bolu, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Erzincan, H, Bolu, H, Bursa, A, Aydin
+Ardahan, H, Agri, R, Erzincan, H, Bolu, H, Bursa, H, Aydin
+Ardahan, H, Agri, R, Erzincan, H, Bolu, R, Bursa, H, Aydin
+Ardahan, H, Agri, R, Erzincan, H, Bolu, A, Burdur, H, Aydin
+Ardahan, H, Agri, R, Erzincan, H, Bolu, H, Burdur, A, Aydin
+Ardahan, H, Agri, R, Erzincan, H, Bolu, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Erzincan, H, Bolu, H, Burdur, R, Aydin
+Ardahan, H, Agri, R, Erzincan, H, Bolu, R, Burdur, H, Aydin
+Ardahan, H, Agri, R, Erzincan, R, Bolu, H, Bursa, H, Aydin
+Ardahan, H, Agri, R, Erzincan, R, Bolu, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Erzincan, R, Malatya, H, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, R, Erzincan, R, Malatya, H, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Erzincan, R, Malatya, H, Kayseri, A, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, R, Erzincan, R, Malatya, H, Kayseri, A, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, R, Erzincan, R, Malatya, H, Kayseri, R, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, R, Erzincan, R, Malatya, H, Kayseri, R, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Erzincan, R, Malatya, H, Kayseri, R, Konya, H, Burdur, R, Aydin
+Ardahan, H, Agri, R, Erzincan, R, Malatya, H, Kayseri, R, Konya, R, Burdur, H, Aydin
+Ardahan, H, Agri, R, Erzincan, R, Malatya, R, Kayseri, A, Konya, H, Burdur, H, Aydin
+Ardahan, H, Agri, R, Erzincan, R, Malatya, R, Kayseri, R, Konya, H, Burdur, H, Aydin
+Q2, Agri, Burdur, Kayseri
+Agri, A, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, H, Burdur
+Agri, A, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, R, Burdur
+Agri, A, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, H, Burdur
+Agri, A, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, R, Burdur
+Agri, A, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, H, Burdur
+Agri, A, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, R, Burdur
+Agri, A, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, H, Burdur
+Agri, A, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, R, Burdur
+Agri, A, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, H, Burdur
+Agri, A, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, R, Burdur
+Agri, A, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, H, Burdur
+Agri, A, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, R, Burdur
+Agri, A, Diyarbakir, R, Malatya, R, Kayseri, A, Konya, H, Burdur
+Agri, A, Diyarbakir, R, Malatya, R, Kayseri, A, Konya, R, Burdur
+Agri, A, Diyarbakir, R, Malatya, R, Kayseri, R, Konya, H, Burdur
+Agri, A, Diyarbakir, R, Malatya, R, Kayseri, R, Konya, R, Burdur
+Agri, H, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, H, Burdur
+Agri, H, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, R, Burdur
+Agri, H, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, H, Burdur
+Agri, H, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, R, Burdur
+Agri, H, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, H, Burdur
+Agri, H, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, R, Burdur
+Agri, H, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, H, Burdur
+Agri, H, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, R, Burdur
+Agri, H, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, H, Burdur
+Agri, H, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, R, Burdur
+Agri, H, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, H, Burdur
+Agri, H, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, R, Burdur
+Agri, H, Diyarbakir, R, Malatya, R, Kayseri, A, Konya, H, Burdur
+Agri, H, Diyarbakir, R, Malatya, R, Kayseri, A, Konya, R, Burdur
+Agri, H, Diyarbakir, R, Malatya, R, Kayseri, R, Konya, H, Burdur
+Agri, H, Diyarbakir, R, Malatya, R, Kayseri, R, Konya, R, Burdur
+Agri, R, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, H, Burdur
+Agri, R, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, R, Burdur
+Agri, R, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, H, Burdur
+Agri, R, Diyarbakir, H, Malatya, H, Kayseri, R, Konya, R, Burdur
+Agri, R, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, H, Burdur
+Agri, R, Diyarbakir, H, Malatya, R, Kayseri, A, Konya, R, Burdur
+Agri, R, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, H, Burdur
+Agri, R, Diyarbakir, H, Malatya, R, Kayseri, R, Konya, R, Burdur
+Agri, R, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, H, Burdur
+Agri, R, Diyarbakir, R, Malatya, H, Kayseri, A, Konya, R, Burdur
+Agri, R, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, H, Burdur
+Agri, R, Diyarbakir, R, Malatya, H, Kayseri, R, Konya, R, Burdur
+Agri, R, Diyarbakir, R, Malatya, R, Kayseri, A, Konya, H, Burdur
+Agri, R, Diyarbakir, R, Malatya, R, Kayseri, A, Konya, R, Burdur
+Agri, R, Diyarbakir, R, Malatya, R, Kayseri, R, Konya, H, Burdur
+Agri, R, Diyarbakir, R, Malatya, R, Kayseri, R, Konya, R, Burdur
+Agri, R, Hatay, A, Kayseri, A, Konya, H, Burdur
+Agri, R, Hatay, A, Kayseri, A, Konya, R, Burdur
+Agri, R, Hatay, A, Kayseri, R, Konya, H, Burdur
+Agri, R, Hatay, A, Kayseri, R, Konya, R, Burdur
+Agri, R, Hatay, H, Kayseri, A, Konya, H, Burdur
+Agri, R, Hatay, H, Kayseri, A, Konya, R, Burdur
+Agri, R, Hatay, H, Kayseri, R, Konya, H, Burdur
+Agri, R, Hatay, H, Kayseri, R, Konya, R, Burdur
+Agri, H, Erzincan, A, Kayseri, A, Konya, H, Burdur
+Agri, H, Erzincan, A, Kayseri, A, Konya, R, Burdur
+Agri, H, Erzincan, A, Kayseri, R, Konya, H, Burdur
+Agri, H, Erzincan, A, Kayseri, R, Konya, R, Burdur
+Agri, H, Erzincan, R, Malatya, H, Kayseri, A, Konya, H, Burdur
+Agri, H, Erzincan, R, Malatya, H, Kayseri, A, Konya, R, Burdur
+Agri, H, Erzincan, R, Malatya, H, Kayseri, R, Konya, H, Burdur
+Agri, H, Erzincan, R, Malatya, H, Kayseri, R, Konya, R, Burdur
+Agri, H, Erzincan, R, Malatya, R, Kayseri, A, Konya, H, Burdur
+Agri, H, Erzincan, R, Malatya, R, Kayseri, A, Konya, R, Burdur
+Agri, H, Erzincan, R, Malatya, R, Kayseri, R, Konya, H, Burdur
+Agri, H, Erzincan, R, Malatya, R, Kayseri, R, Konya, R, Burdur
+Agri, R, Erzincan, A, Kayseri, A, Konya, H, Burdur
+Agri, R, Erzincan, A, Kayseri, A, Konya, R, Burdur
+Agri, R, Erzincan, A, Kayseri, R, Konya, H, Burdur
+Agri, R, Erzincan, A, Kayseri, R, Konya, R, Burdur
+Agri, R, Erzincan, R, Malatya, H, Kayseri, A, Konya, H, Burdur
+Agri, R, Erzincan, R, Malatya, H, Kayseri, A, Konya, R, Burdur
+Agri, R, Erzincan, R, Malatya, H, Kayseri, R, Konya, H, Burdur
+Agri, R, Erzincan, R, Malatya, H, Kayseri, R, Konya, R, Burdur
+Agri, R, Erzincan, R, Malatya, R, Kayseri, A, Konya, H, Burdur
+Agri, R, Erzincan, R, Malatya, R, Kayseri, A, Konya, R, Burdur
+Agri, R, Erzincan, R, Malatya, R, Kayseri, R, Konya, H, Burdur
+Agri, R, Erzincan, R, Malatya, R, Kayseri, R, Konya, R, Burdur
+Q3, Erzincan, Burdur, R
+Erzincan, R, Bolu, R, Burdur
+Erzincan, R, Malatya, R, Kayseri, R, Konya, R, Burdur
+Q2, Diyarbakir, Aydin, Bolu
+Diyarbakir, A, Tokat, A, Bolu, H, Bursa, A, Aydin
+Diyarbakir, A, Tokat, A, Bolu, H, Bursa, H, Aydin
+Diyarbakir, A, Tokat, A, Bolu, R, Bursa, A, Aydin
+Diyarbakir, A, Tokat, A, Bolu, R, Bursa, H, Aydin
+Diyarbakir, A, Tokat, A, Bolu, A, Burdur, A, Aydin
+Diyarbakir, A, Tokat, A, Bolu, A, Burdur, H, Aydin
+Diyarbakir, A, Tokat, A, Bolu, A, Burdur, R, Aydin
+Diyarbakir, A, Tokat, A, Bolu, H, Burdur, A, Aydin
+Diyarbakir, A, Tokat, A, Bolu, H, Burdur, H, Aydin
+Diyarbakir, A, Tokat, A, Bolu, H, Burdur, R, Aydin
+Diyarbakir, A, Tokat, A, Bolu, R, Burdur, A, Aydin
+Diyarbakir, A, Tokat, A, Bolu, R, Burdur, H, Aydin
+Diyarbakir, A, Tokat, A, Bolu, R, Burdur, R, Aydin
+Diyarbakir, A, Tokat, H, Bolu, H, Bursa, A, Aydin
+Diyarbakir, A, Tokat, H, Bolu, H, Bursa, H, Aydin
+Diyarbakir, A, Tokat, H, Bolu, R, Bursa, A, Aydin
+Diyarbakir, A, Tokat, H, Bolu, R, Bursa, H, Aydin
+Diyarbakir, A, Tokat, H, Bolu, A, Burdur, A, Aydin
+Diyarbakir, A, Tokat, H, Bolu, A, Burdur, H, Aydin
+Diyarbakir, A, Tokat, H, Bolu, A, Burdur, R, Aydin
+Diyarbakir, A, Tokat, H, Bolu, H, Burdur, A, Aydin
+Diyarbakir, A, Tokat, H, Bolu, H, Burdur, H, Aydin
+Diyarbakir, A, Tokat, H, Bolu, H, Burdur, R, Aydin
+Diyarbakir, A, Tokat, H, Bolu, R, Burdur, A, Aydin
+Diyarbakir, A, Tokat, H, Bolu, R, Burdur, H, Aydin
+Diyarbakir, A, Tokat, H, Bolu, R, Burdur, R, Aydin
+Q4, Ardahan, Burdur, A2, H2, R1
+Ardahan, A, Erzincan, R, Malatya, H, Kayseri, A, Konya, H, Burdur
+Ardahan, H, Agri, A, Diyarbakir, A, Tokat, H, Bolu, R, Burdur
+Ardahan, H, Agri, H, Diyarbakir, A, Tokat, A, Bolu, R, Burdur
+Ardahan, H, Agri, R, Diyarbakir, A, Tokat, A, Bolu, H, Burdur
+Ardahan, H, Agri, R, Diyarbakir, A, Tokat, H, Bolu, A, Burdur
+Ardahan, H, Agri, R, Hatay, A, Kayseri, A, Konya, H, Burdur
+Ardahan, H, Agri, H, Erzincan, A, Kayseri, A, Konya, R, Burdur
+Ardahan, H, Agri, R, Erzincan, A, Kayseri, A, Konya, H, Burdur
+Q3, Diyarbakir, Burdur, A
+Diyarbakir, A, Tokat, A, Bolu, A, Burdur
+PRINTGRAPH
+Ardahan --> Tokat Hatay Erzincan Agri
+Agri --> Diyarbakir Hatay Erzincan
+Erzincan --> Kayseri Bolu Malatya
+Diyarbakir --> Tokat Malatya
+Hatay --> Kayseri
+Malatya --> Kayseri
+Tokat --> Bolu
+Kayseri --> Konya
+Bolu --> Bursa Burdur
+Konya --> Burdur
+Bursa --> Aydin
+Burdur --> Aydin
+Aydin --> 
