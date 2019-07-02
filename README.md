@@ -60,10 +60,10 @@ For instance, 'Q4 Berlin Frankfurt A3 H1 R0' means that the source city is Berli
 #### PRINTGRAPH
 This query outputs the graph structure. For instance:
 
-Berlin --> Frankfurt  
-Munich --> Dresden  
-Frankfurt -->  Freiburg Stuttgart Ulm
-Freiburg --> Munich Zurich  
+Berlin --> Frankfurt<br>
+Munich --> Dresden<br>
+Frankfurt -->  Freiburg Stuttgart Ulm<br>
+Freiburg --> Munich Zurich<br>  
 
 ## Motivation
 This application is developed to comprehend the directed graph data structure. And the queries that I executed helped me to enhanced my algorithmic approach.
